@@ -1,2 +1,2 @@
 # belajar-coding-pertama
-Proyek pertama saya untuk belajar HTML
+Proyek pertama saya untuk belajar HTML lewat smartphone
